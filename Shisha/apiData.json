@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Malá",
+    "img": "images/Hookah-PNG-Image.png",
+    "price": [300, 300, 350,350],
+    "sizes": [".",".",".","."],
+    "flavor": ["tabák", "tvoje mama", "hej", "pico", "KOKOS", "JAHODA", "PERO BEZDÁKA"],
+    "description": "Vyber si z různé delky a chuti tabáku."
+  },
+  {
+    "id": 2,
+    "name": "Střední",
+    "img": "images/Hookah-PNG-File2.png",
+    "price": [200, 300, 350,400],
+    "sizes": [".",".",".","."],
+    "flavor": ["tabák", "tvoje mama", "hej", "pico", "KOKOS", "JAHODA", "PERO BEZDÁKA"],
+    "description": "Vyber si z různé delky a chuti tabáku."
+  },
+  {
+    "id": 3,
+    "name": "Velká",
+    "img": "images/Hookah-PNG-Images1.png",
+    "price": [200, 300, 350,400],
+    "sizes": [".",".",".","."],
+    "flavor": ["tabák", "tvoje mama", "hej", "pico", "KOKOS", "JAHODA", "PERO BEZDÁKA"],
+    "description": "Vyber si z různé delky a chuti tabáku."
+  },
+  {
+    "id": 4,
+    "name": "Custom",
+    "img": "images/Hookah-PNG-Images-HD.png",
+    "price": [200, 300, 350,400],
+    "sizes": [".",".",".","."],
+    "description": "Vyber si z různé delky a chuti tabáku."
+  }
+]
